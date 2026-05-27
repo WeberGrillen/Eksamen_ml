@@ -1,0 +1,15 @@
+.venv/
+Dataset/
+DevOps/
+Devops_Gorillas/
+EK_Azure/
+EK_DAT_Node.js_2026_Spring/
+Machine_learning/
+Mandatory1_node/
+Mandatory2_node/
+Classroom/
+node_modules/
+*.h5
+*.keras
+__pycache__/
+.DS_Store
